@@ -83,6 +83,20 @@ Secure transfer API focused on production practices:
 
 ---
 
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/theraven-69/">
+    <img src="https://leetcard.jacoblin.cool/theraven-69?theme=dark"/>
+  </a>
+</p>
+
+
+---
+
 ## 🌱 Currently Learning
 
 Cloud • Infrastructure • Deployment • Observability
+
+
+
