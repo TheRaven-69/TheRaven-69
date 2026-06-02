@@ -19,7 +19,7 @@ Building backend systems, exploring infrastructure, deployment and automation.
 
 ### Languages
 
-[![Skills](https://skillicons.dev/icons?i=python,bash\&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,html,css,bash\&perline=8)](https://skillicons.dev)
 
 ---
 
@@ -61,10 +61,18 @@ Building backend systems, exploring infrastructure, deployment and automation.
 
 ### Tools
 
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm\&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,vim,postman,pycharm\&perline=8)](https://skillicons.dev)
 
 Cursor • Codex
 
+---
+
+### Knowledge & Documentation
+
+[![Skills](https://skillicons.dev/icons?i=obsidian,md\&perline=8)](https://skillicons.dev)
+
+XML
+ 
 ---
 
 ## 📌 Featured Project
