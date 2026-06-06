@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vadym
+# Hi there 👋 I'm Vadim
 
 Backend Developer • DevOps Enthusiast
 
